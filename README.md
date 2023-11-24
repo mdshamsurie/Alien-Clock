@@ -1,4 +1,4 @@
-# Aien clock
+# Alien clock
 the project not complete with set alarm and date for alien
 ![2023_11_24_12_38_24_clock](https://github.com/mdshamsurie/Alien-Clock/assets/58162126/e6c18fca-f458-4b6b-9261-6b572603a298)
 
