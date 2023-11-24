@@ -1,4 +1,5 @@
 # clock
+the project not complete with set alarm and date for alien
 
 ## Project setup
 ```
